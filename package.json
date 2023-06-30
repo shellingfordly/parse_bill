@@ -1,0 +1,15 @@
+{
+  "name": "parse_bill",
+  "version": "1.0.0",
+  "description": "解析账单",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "shellingfordly",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "json2xls": "^0.1.2"
+  }
+}
